@@ -1,0 +1,376 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header__wrap{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.main {
+    background: url(../img/road-g9875459d1_1920\ 1.jpg) no-repeat center center/cover;
+    height: 750px;
+}
+.texts{
+    display: flex;
+    flex-direction: row;
+}
+
+.img{
+    margin-top: 22px;
+    margin-left: 240px;
+}
+
+.texts{
+    margin-top: 41px;
+    margin-left: 283px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.text_1, .text_2, .text_3{
+    padding-right: 35px;
+}
+.text_1 {
+    text-decoration: underline;
+}
+
+.text_2{
+    padding-left: 35px;
+}
+
+.language{
+    margin-left: 442px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 41px;
+}
+
+.lang{
+    padding-right: 8px;
+    color: #B7B7B7;
+}
+
+.lang1{
+    color: #FFF;
+}
+
+.line_1{
+    background-color: black;
+    width: 39px;
+    height: 2px;
+}
+
+.text1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 130px;
+    margin-left: 240px;
+}
+
+.text_5{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.7;
+}
+
+.button{
+    margin-top: 53px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    width: 198px;
+    height: 50px;
+    background: #DB2512;
+}
+
+.image_1{
+    margin-top: -110px;
+    display: flex;
+    justify-content: center;
+}
+
+.second_pade{
+    margin-left: 240px;
+}
+
+.text-1{
+    display: flex;
+    flex-direction: column;
+}
+
+.text-2{
+    padding-bottom: 15px;
+    padding-top: 197px;
+    color: #000;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.text-3{
+    color: #000;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2.25px;
+    text-decoration-line: underline;
+    padding-bottom: 60px;
+}
+
+.img-1{
+    display: flex;
+    flex-direction: row;
+}
+
+.img1, .img2{
+    padding-right: 130px;
+}
+
+.e, .t{
+    color: #000;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: 21px;
+    padding-bottom: 98px;
+    letter-spacing: 4.6px;
+}
+
+.black_pade{
+    background: #171616;
+    height: 665px;
+}
+
+.text_a{
+    margin-left: 239px;
+}
+
+.first{
+    padding-top: 117px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 4.5px;
+}
+
+.second{
+    margin-top: 42px;
+    color: #B7B7B7;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 4.0px;
+
+}
+
+.three{
+    margin-top: 48px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 2.5px;
+    text-decoration-line: underline;
+    letter-spacing: 3.7px;
+
+}
+
+.photo{
+    margin-left: 927px;
+    display: flex;
+    margin-top: -350px;
+    justify-content: center;
+}
+
+.texts_1{
+    margin-top: 99px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texts_2{
+    padding-bottom: 58px;
+    color: #000;
+    font-family: Poppins;
+    font-size: 148px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.texts_3{
+    color: #000;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 6px;
+    padding-bottom: 92px;
+}
+
+.boxes{
+    background: #FFF;
+    display: flex;
+    flex-direction: row;
+    color: #000;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 2.7px;
+    padding-bottom: 99px;
+}
+
+.box_2, .box_3{
+    width: 386px;
+    height: 150px;
+    margin-left: 20px;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+}
+
+.box_1{
+    width: 386px;
+    height: 150px;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+}
+
+.texts_4, .texts_6, .texts_8{
+    margin-top: 31px;
+    margin-left: 30px;
+    padding-bottom: 15px;
+}
+
+.texts_5, .texts_7, .texts_9{
+    color: #B7B7B7;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 30px;
+}
+
+.contacts__wrap{
+    background: #171616;
+    padding-left: 231px;
+    padding-bottom: 97px;
+    padding-top: 1px;
+}
+
+.texts-2{
+    margin-top: 97px;
+    padding-bottom: 46px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 4.5px;
+}
+
+.inputs{
+    Width: 197px;
+    Height: 33px;
+}
+
+.inputs_1, .inputs_2{
+    flex-direction: column;
+    text-decoration: underline;
+}
+
+.input_1, .input_3{
+    color: #FFF;
+    background: #171616;
+}
+
+.inputs_2{
+    margin-left: 46px;
+}
+
+.input_2, .input_4{
+    pointer-events: none;
+    color: #FFF;
+    background: #171616;
+    margin-top: 45px;
+
+}
+
+.input_5{
+    color: #FFF;
+    background: #171616;
+    Width: 440px;
+    Height: 131px;
+    margin-top: 108px;
+}
+
+.inp{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.button_1{
+    margin-top: 37px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    width: 198px;
+    height: 50px;
+    background-color: #DB2512;
+
+}
+
+.line_1{
+    margin-top: -20px;
+    width: 172px;
+    height: 1px; 
+}
+
+.lines{
+    padding-top: 5px;
+}
+
+.last_page__wrap{
+    display: flex;
+    flex-direction: row;
+}
+
+.texx{
+    color: #000;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 2.25px;
+    display: flex;
+    margin-left: 231px;
+    padding-right: 724px;
+    padding-top: 63px;
+    padding-bottom: 63px;
+}
+
+.image-1{
+    display: flex;
+    flex-direction: row;
+}
